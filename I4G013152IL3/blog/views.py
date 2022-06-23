@@ -1,5 +1,3 @@
-# from django.shortcuts import render
-# from django.shortcuts import (get_object_or_404, render, HttpResponseRedirect)
 from django.urls import reverse_lazy
 
 from django.views.generic.edit import CreateView, UpdateView
